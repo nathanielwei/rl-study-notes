@@ -1,6 +1,7 @@
 # rl-study-notes
-
+https://www.coursera.org/learn/practical-rl/
 ## Reinforement learing v.s. all
+https://www.coursera.org/learn/practical-rl/lecture/KH2m3/reinforcement-learning-vs-all
 ### Interactive Transcript
 Now, let's go a quick recap on how reinforcement learning compares to other demands machine learning. 
 
